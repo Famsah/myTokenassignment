@@ -1,0 +1,2 @@
+# myTokenassignment
+Simple Smart Contract
